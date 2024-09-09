@@ -30,7 +30,7 @@ export default function Home() {
               -&gt;
             </span>
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          <p className="m-0 max-w-[30ch] pl-10 text-sm opacity-50">
           
           is a sacred text found among the Dead Sea Scrolls in 1947. Initially accepted by the Jewish and Christian communities as a viable book of scripture, the Book of Enoch is presently pseudepigraphical or not included in any biblical canon.
           </p>
@@ -48,7 +48,7 @@ export default function Home() {
               -&gt;
             </span>
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          <p className="m-0 max-w-[30ch] pl-10 text-sm opacity-50">
           (The Similitudes), a text from around the turn of the era that claims to be the ancient patriarchs revelation of secrets about the cosmos and the end-time, which had, in turn, been revealed to him during an angelically guided tour of heaven and the outermost parts of the earth.
           </p>
         </a>
@@ -65,7 +65,7 @@ export default function Home() {
               -&gt;
             </span>
           </h2>
-          <p className="m-0 max-w-[30ch] text-sm opacity-50">
+          <p className="m-0 max-w-[30ch] pl-10 text-sm opacity-50">
           The Book of the Courses of the Heavenly Luminaries is a scholarly work by R. H. Charles that analyzes the astronomical content of the biblical Book of Enoch. The Book of Enoch is an ancient text that is attributed to the biblical figure Enoch and is said to contain a wealth of astronomical knowledge. 
  
           </p>
@@ -83,7 +83,7 @@ export default function Home() {
               -&gt;
             </span>
           </h2>
-          <p className="m-0 max-w-[30ch] text-balance text-sm opacity-50">
+          <p className="m-0 max-w-[30ch] text-balance pl-10 text-sm opacity-50">
           
         
           The book of Dreams and Visions appears to been compiled from an older Canaanite text in the early Persian era and was likely attached to the Astronomical Book 
